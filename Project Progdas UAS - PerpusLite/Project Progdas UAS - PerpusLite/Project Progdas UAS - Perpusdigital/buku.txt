@@ -1,0 +1,4 @@
+B001|Belajar C++ oleh Andi Wijaya|Andi Wijaya|Gramedia|2023|1
+B002|Algoritma Pemrograman|Budi Santosa|Elex Media|2020|3
+B003|Struktur Data|Citra Dewi|Informatika|2022|4
+B006|Membangun Negeri|Sucipto|Erlangga|2015|7
